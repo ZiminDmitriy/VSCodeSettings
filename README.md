@@ -24,3 +24,5 @@
             }
         }
     }
+    "rust-analyzer.lens.implementations": false,
+    "rust-analyzer.lens.enable": false
