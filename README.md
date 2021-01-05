@@ -2,7 +2,7 @@
 
     "workbench.colorTheme": "Quiet Light",
     "editor.fontSize": 12,
-    "files.autoSave": "onFocusChange",
+    "files.autoSave": "afterDelay,
     "explorer.compactFolders": false,
     "workbench.startupEditor": "newUntitledFile",
     "remote.containers.workspaceMountConsistency": "consistent",
