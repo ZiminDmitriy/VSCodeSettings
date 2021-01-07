@@ -1,8 +1,6 @@
-# VSCodeSettings
-
     "workbench.colorTheme": "Quiet Light",
     "editor.fontSize": 12,
-    "files.autoSave": "afterDelay,
+    "files.autoSave": "afterDelay",
     "explorer.compactFolders": false,
     "workbench.startupEditor": "newUntitledFile",
     "remote.containers.workspaceMountConsistency": "consistent",
@@ -15,6 +13,9 @@
     "rust-analyzer.cargo.allFeatures": true,
     "rust-analyzer.procMacro.enable": true,
     "rust-analyzer.inlayHints.enable": false,
+    "rust-analyzer.lens.implementations": false,
+    "rust-analyzer.lens.enable": false,
+    "rust-analyzer.cargo.loadOutDirsFromCheck": true,
     "editor.semanticHighlighting.enabled": true,
     "editor.semanticTokenColorCustomizations": {
         "enabled": true,
@@ -24,5 +25,4 @@
             }
         }
     }
-    "rust-analyzer.lens.implementations": false,
-    "rust-analyzer.lens.enable": false
+    
